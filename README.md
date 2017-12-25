@@ -58,5 +58,25 @@ That means the implementation and the client should be loosely coupled in order 
 * [Iterator Pattern][]
 
 
-[Factory Method Pattern]:  https://github.com/nagendramca2011/java-design-patterns/blob/master/Factory%20Method%20Pattern.md
-[Singleton Pattern]: https://github.com/nagendramca2011/java-design-patterns/blob/master/Singleton%20Pattern.md
+[Factory Method Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/creational/Factory%20Method.md>
+[Abstract Factory Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/creational/Abstract%20Factory.md>
+[Singleton Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/creational/Singleton.md>
+[Prototype Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/creational/Prototype.md>
+[Builder Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/creational/Builder.md>
+[Object Pool Pattern]: <https://github.com/nagendramca2011/DesignPatterns/blob/master/creational/Object%20Pool.md>
+
+
+[Adapter Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/structural/Adapter.md>
+[Bridge Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/structural/Bridge.md>
+[Composite Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/structural/Composite.md>
+[Decorator Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/structural/Decorator.md>
+[Facade Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/structural/Facade.md>
+[Flyweight Pattern]:<https://github.com/nagendramca2011/DesignPatterns/blob/master/structural/Flyweight.md>
+[Proxy Pattern]: <https://github.com/nagendramca2011/DesignPatterns/blob/master/structural/Proxy.md>
+
+
+
+[Chain of Responsibility]: <https://github.com/nagendramca2011/DesignPatterns/blob/master/behavioral/Chain%20of%20Responsibility.md>
+[Command Pattern]: <https://github.com/nagendramca2011/DesignPatterns/blob/master/behavioral/Command%20Pattern.md>
+[Interpreter Pattern]: <https://github.com/nagendramca2011/DesignPatterns/blob/master/behavioral/Interpreter%20Pattern.md>
+[Iterator Pattern]: <https://github.com/nagendramca2011/DesignPatterns/blob/master/behavioral/Iterator%20Pattern.md>
